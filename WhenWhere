@@ -1,2 +1,6 @@
 23  Merge K Sorted Lists
 External Sort. 
+
+Lowest Common Ancestor
+The problem of computing lowest common ancestors of classes in an inheritance hierarchy arises in the implementation of object-oriented programming systems (Aït-Kaci et al. 1989). The LCA problem also finds applications in models of complex systems found in distributed computing (Bender et al. 2005).
+
